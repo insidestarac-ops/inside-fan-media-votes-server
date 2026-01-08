@@ -1,0 +1,14 @@
+{
+  "anouk": {
+    "name": "Anouk",
+    "role": "Candidate",
+    "image": "anouk.jpg",
+    "votes": 0
+  },
+  "enzo": {
+    "name": "Enzo",
+    "role": "Candidate",
+    "image": "enzo.jpg",
+    "votes": 0
+  }
+}
