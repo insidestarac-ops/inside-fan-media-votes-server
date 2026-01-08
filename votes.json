@@ -1,13 +1,13 @@
 {
   "anouk": {
     "name": "Anouk",
-    "role": "Candidate",
-    "image": "anouk.jpg",
+    "role": "Académicienne",
+    "image": "Anouk.jpg",
     "votes": 0
   },
   "victor": {
     "name": "Victor",
-    "role": "Candidate",
+    "role": "Académicien",
     "image": "Victor.jpg",
     "votes": 0
   }
